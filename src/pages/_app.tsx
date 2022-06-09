@@ -6,7 +6,7 @@ import PlausibleProvider from "next-plausible";
 function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
-      <PlausibleProvider domain='sanyam.me' customDomain='sanyam.me'>
+      <PlausibleProvider domain='Rachmat Ramadhan' customDomain='Rachmat Ramadhan'>
         <GlobalStyles />
         <Layout>
           <Component {...pageProps} />

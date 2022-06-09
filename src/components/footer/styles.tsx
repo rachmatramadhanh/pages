@@ -21,7 +21,7 @@ export const FooterContent = styled.div`
   text-align: center;
   margin-top: 0.5rem;
 `;
-export const VercelWrapper = styled.span`
+export const IconWrapper = styled.span`
   font-size: 18px;
   margin: 0 0.2rem;
 `;

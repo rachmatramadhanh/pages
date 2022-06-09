@@ -14,19 +14,19 @@ const IntroBlock: React.FC = () => {
     <IntroBase>
       <DetailsWrapper>
         <IntroLine>
-          Hey,
-          <br /> I&apos;m <TextHighlight>Sanyam Dogra! </TextHighlight>
+          Hey 👋,
+          <br /> I&apos;m Rachmat Ramadhan
         </IntroLine>
         <WorkLine>
-          Frontend Engineer <TextHighlight>@ Rapyuta Robotics</TextHighlight>
+          Front End Web Developer
         </WorkLine>
       </DetailsWrapper>
       <AvatarWrapper>
         <Image
-          src={"/static/images/avatar.webp"}
+          src={"/static/images/meabout.png"}
           height={256 / 2.2}
           width={256 / 2.2}
-          alt='Avatar Sanyam Dogra'
+          alt='Avatar Rachmat Ramadhan'
           priority
         />
       </AvatarWrapper>

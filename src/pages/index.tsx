@@ -15,7 +15,7 @@ const Home: React.FC<Props> = ({ post }) => {
 
   return (
     <>
-      <DocumentHead pageTitle='Base' />
+      <DocumentHead pageTitle='Rachmat Ramadhan' />
       <IntroBlock />
       <InterestsBlock className='content'>
         <Component

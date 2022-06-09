@@ -41,19 +41,19 @@ export default class MyDocument extends Document {
           <link rel='icon' href='static/favicons/favicon.ico' />
           <link rel='shortcut icon' href='static/favicons/favicon.ico' />
           <link
-            rel='apple-touch-icon'
+            rel='logo'
             sizes='180x180'
-            href='static/favicons/apple-touch-icon.png'
+            href='static/favicons/logo.png'
           />
           <meta
-            name='apple-mobile-web-app-title'
-            content="Sanyam Dogra's Blog"
+            name='logo'
+            content="Rachmat Ramadhan's Blog"
           />
           <meta
-            name='apple-mobile-web-app-status-bar-style'
+            name='logo'
             content='default'
           />
-          <meta name='apple-mobile-web-app-capable' content='yes' />
+          <meta name='logo' content='yes' />
           <meta name='mobile-web-app-capable' content='yes' />
 
           <link rel='preconnect' href='https://fonts.googleapis.com' />
@@ -70,13 +70,13 @@ export default class MyDocument extends Document {
             rel='icon'
             type='image/png'
             sizes='32x32'
-            href='static/favicons/favicon-32x32.png'
+            href='static/favicons/logo.png'
           />
           <link
             rel='icon'
             type='image/png'
             sizes='16x16'
-            href='static/favicons/favicon-16x16.png'
+            href='static/favicons/logo.png'
           />
           <link rel='manifest' href='static/favicons/site.webmanifest'></link>
         </Head>

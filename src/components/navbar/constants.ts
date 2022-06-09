@@ -1,7 +1,11 @@
 export const NAV_LINKS = [
-  {
-    title: "blog",
-    to: "/blog"
+  { title: "About", 
+  to: "/about" 
   },
-  { title: "about", to: "/about" }
+  
+  {
+    title: "Blog",
+    to: "/blog"
+  }
+
 ];

@@ -6,9 +6,9 @@ const styled = { createGlobalStyle };
 export const GlobalStyles = styled.createGlobalStyle`
   :root {
     --max-width: 650px;
-    --color-primary: rgb(207, 69, 92);
+    --color-primary: rgb(37, 29, 191);
     --color-primary-transparent: rgba(255, 255, 255, 0.93);
-    --primary-background: white;
+    --primary-background: rgba(226, 232, 240, 0.68);
     --primary-background-transparent: rgba(255, 255, 255, 0.8);
     --text-color-primary: rgb(51, 51, 51);
     --text-color-grey: rgb(36, 41, 47);
@@ -21,8 +21,8 @@ export const GlobalStyles = styled.createGlobalStyle`
     --color-block-quote: #e5e7eb;
   }
   [data-theme="dark"] {
-    --color-primary: rgb(207, 69, 92);
-    --primary-background: black;
+    --color-primary: rgb(78, 119, 249);
+    --primary-background: rgb(9, 23, 33);
     --primary-background-transparent: rgba(1, 1, 1, 0.8);
     --text-color-primary: white;
     --text-color-grey: rgb(201, 209, 217);

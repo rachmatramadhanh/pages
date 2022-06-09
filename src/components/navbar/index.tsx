@@ -12,7 +12,7 @@ import { IconContainer } from "../shared/icons";
 import { Variants } from "framer-motion";
 import { DataTheme } from "../../common/types";
 import { useRouter } from "next/router";
-import { GiSpiderWeb } from "react-icons/gi";
+import { FaHome } from "react-icons/fa";
 import { NAV_LINKS } from "./constants";
 import {
   NavLink,
@@ -106,7 +106,7 @@ const Navbar: React.FC = () => {
           rel='noopener noreferrer'
           styleOnHover
         >
-          <FiTwitter aria-label='Twitter @sdlord07' title='Twitter @sdlord07' />
+          <FiTwitter aria-label='Twitter @rachmatramadhan' title='Twitter @rachmatramadhan' />
         </IconContainer>
       </NavLink>
       <NavLink desktop>
@@ -117,8 +117,8 @@ const Navbar: React.FC = () => {
           styleOnHover
         >
           <FiGithub
-            aria-label='GitHub @sanyamdogra'
-            title='GitHub @sanyamdogra'
+            aria-label='GitHub @rachmatramadhan'
+            title='GitHub @rachmatramadhan'
           />
         </IconContainer>
       </NavLink>
@@ -136,7 +136,7 @@ const Navbar: React.FC = () => {
       <NavbarInner>
         <Link href='/' passHref>
           <NavInitial>
-            <GiSpiderWeb title='Home' />
+            <FaHome title='Home' />
           </NavInitial>
         </Link>
         <NavLinks>

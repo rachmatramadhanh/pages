@@ -1,4 +1,4 @@
-## [sanyam.me](https://sanyam.me/) - Personal Blog ✨
+## [rachmatramadhan](https://rachmatramadhan.com/) - Personal Blog ✨
 
 Hey there!  
 This is my personal blog that I made to pen down my thoughts/stuff I do.

@@ -52,7 +52,7 @@ export const NavbarBody = styled.header`
   top: 0;
   width: 100%;
   z-index: 2;
-  background-color: var(--primary-background-transparent);
+  background-color: var(--primary-background);
 
   ${IconWrapper}, ${NavLogo} {
     z-index: 10;

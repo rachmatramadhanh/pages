@@ -25,12 +25,12 @@ const Blogs: React.FC<Props> = ({ blogs }) => {
       <DocumentHead pageTitle='Blog' />
       <ContentCenter>
         <PageTitle>
-          Not a <TextHighlight>Blog!</TextHighlight>
+          Blog
         </PageTitle>
       </ContentCenter>
       <ContentCenter>
         <p>
-          &quot;<i> Well, that&apos;s what they say </i>🤦‍♂️&quot;
+          &quot;<i> I write about product, business, development and also about my vision and experience in the digital world. </i>👨‍💻&quot;
         </p>
       </ContentCenter>
       <BlogViewWrapper>

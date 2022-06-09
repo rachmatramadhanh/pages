@@ -1,5 +1,5 @@
 {
-  "name": "sanyam.me",
+  "name": "rachmat ramadhan",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -32,6 +32,7 @@
     "@types/react": "17.0.38",
     "eslint": "8.5.0",
     "eslint-config-next": "12.0.7",
+    "gh-pages": "^4.0.0",
     "typescript": "4.5.4"
   }
 }

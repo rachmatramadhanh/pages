@@ -19,13 +19,8 @@ const About: React.FC<Props> = ({ post }) => {
       <DocumentHead pageTitle='About me' />
       <ContentCenter>
         <PageTitle>
-          About <TextHighlight>me?</TextHighlight>
+          About me
         </PageTitle>
-      </ContentCenter>
-      <ContentCenter>
-        <p>
-          <i>&quot; I don&apos;t know &quot;</i>
-        </p>
       </ContentCenter>
       <LayoutWrapper className='content about'>
         <Component

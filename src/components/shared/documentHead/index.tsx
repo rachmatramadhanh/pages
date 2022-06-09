@@ -20,7 +20,7 @@ export const DocumentHead: React.FC<Props> = ({
   noIndex,
   imageUrl = BANNER_URL
 }) => {
-  const _pageTitle = `${pageTitle} | Sanyam Dogra`;
+  const _pageTitle = `${pageTitle} | Front End Developer`;
   return (
     <Head>
       <title>{_pageTitle}</title>
@@ -36,7 +36,7 @@ export const DocumentHead: React.FC<Props> = ({
       <meta name='og:image:alt' content={_pageTitle} />
       <meta property='og:url' content={SITE_URL} />
       <meta property='og:type' content='website' />
-      <meta property='og:site_name' content='Sanyam Dogra' />
+      <meta property='og:site_name' content='Rachmat Ramadhan' />
 
       <meta name='twitter:card' content='summary_large_image' />
       <meta name='twitter:site' content='@sdlord07' />

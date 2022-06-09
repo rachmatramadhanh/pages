@@ -11,7 +11,7 @@ export interface BlogView {
 }
 
 export enum SocialLinks {
-  GITHUB = "https://github.com/sanyamdogra",
-  TWITTER = "https://twitter.com/sdlord07",
-  LINKEDIN = "https://www.linkedin.com/in/sanyamdogra/"
+  GITHUB = "https://github.com/rachmatramadhanh",
+  TWITTER = "https://twitter.com/rachmatramadanh?s=09",
+  LINKEDIN = "https://www.linkedin.com/in/rachmat-ramadhan"
 }
