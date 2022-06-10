@@ -5,6 +5,11 @@ const { withContentlayer } = require("next-contentlayer");
 
 module.exports = withPlausibleProxy()(
   withContentlayer()({
-    reactStrictMode: true
+    reactStrictMode: true,
+
+    images: {
+      loader: "akamai",
+      path: "",
+    }
   })
 );
